@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Fidget Spinner",
+      "image": "https://i.pinimg.com/originals/21/1d/34/211d3453dbcbafebed8d77cc19b6ad7b.jpg",
+      "likes": 1000000,
+      "id": 9
+    },
+    {
+      "name": "Fidget Spinner",
+      "image": "https://i.pinimg.com/originals/21/1d/34/211d3453dbcbafebed8d77cc19b6ad7b.jpg",
+      "likes": 1000000,
+      "id": 10
     }
   ]
 }
